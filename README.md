@@ -1,1 +1,1 @@
-chức năng cập nhật người dùng
+chức năng xoá người dùng
