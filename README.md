@@ -1,1 +1,1 @@
-chức năng đăng nhập
+chức năng đăng ký
