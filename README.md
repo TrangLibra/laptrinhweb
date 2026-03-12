@@ -1,1 +1,1 @@
-chức năng đăng ký
+hiển thị danh sách user
