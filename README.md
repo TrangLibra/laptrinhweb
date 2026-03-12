@@ -1,1 +1,1 @@
-hiển thị danh sách user
+hiển thị danh sách người dùng
