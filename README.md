@@ -1,1 +1,1 @@
-chức năng xoá người dùng
+bảo mật CSRF
