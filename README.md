@@ -1,1 +1,1 @@
-bảo mật XSS
+bảo mật IDOR
