@@ -1,1 +1,1 @@
-bảo mật CSRF
+bảo mật XSS
