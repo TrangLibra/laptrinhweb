@@ -1,1 +1,1 @@
-chức năng xem chi tiết người dùng
+chức năng cập nhật người dùng
